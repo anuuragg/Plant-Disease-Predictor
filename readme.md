@@ -4,20 +4,20 @@ A Streamlit app that classifies plant leaf diseases from images using a fine-tun
 
 ## Project Structure
 
-\```
+```
 ├── app.py
 ├── model/
 │   ├── plant_disease_model.pt
 │   └── labels.json
 └── train.ipynb
-\```
+```
 
 ## Setup
 
-\```bash
+```bash
 pip install streamlit torch torchvision pillow
 streamlit run app.py
-\```
+```
 
 ## Usage
 
