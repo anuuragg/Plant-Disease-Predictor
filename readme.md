@@ -9,7 +9,8 @@ A Streamlit app that classifies plant leaf diseases from images using a fine-tun
 ├── model/
 │   ├── plant_disease_model.pt
 │   └── labels.json
-└── train.ipynb
+└── notebook/
+    └── train.ipynb
 ```
 
 ## Setup
